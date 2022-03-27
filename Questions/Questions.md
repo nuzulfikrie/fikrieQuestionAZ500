@@ -8,6 +8,13 @@
 
 - [ ]  D. From Security Center, modify the alert rule.
 
+
+Scenario:
+Litware identifies the following identity and access requirements: All San Francisco users and their devices must be members of Group1.
+The tenant currently contain this group:
+![](https://www.examtopics.com/assets/media/exam-media/02797/0000500001.png)
+References:
+https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal
 2\. You need to meet the identity and access requirements for Group1. What should you do?
 
 - [ ]  A. Add a membership rule to Group1.
